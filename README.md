@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azatugurlu
-- 👀 I’m interested in Mobile Development
+- 👀 I’m interested in Mobile and Web Development
 - 🌱 I’m currently learning Compose
 - 📫 How to reach me: azatugurlu@gmail.com
 
