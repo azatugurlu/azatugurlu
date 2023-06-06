@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azatugurlu
 - 👀 I’m interested in Mobile and Web Development
-- 🌱 I’m currently learning Compose and Swift UI
+- 🌱 I’m currently working with Swift UI
 - 📫 How to reach me: azatugurlu@gmail.com
 
 <!---
